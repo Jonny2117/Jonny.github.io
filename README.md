@@ -2,6 +2,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello World</title>
+    Hello World
   </head>
 </html>
