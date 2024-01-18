@@ -4,4 +4,7 @@
   <head>
     Hello World
   </head>
+  <body>
+    How are you?
+  </body>
 </html>
